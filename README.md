@@ -28,5 +28,5 @@ spring.datasource.password="senha_aqui"
 ```
 (sem aspas)
 
-Execute a classe ```Foodmanagement.java``` como "Spring Boot App"
+Execute a classe ```FoodmanagementApplication.java``` como "Spring Boot App"
 e acesse [localhost](http://localhost:8080/)
